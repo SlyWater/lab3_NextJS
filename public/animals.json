@@ -1,0 +1,14 @@
+[
+  {
+    "header": "Кот Кузя",
+    "content": "Последний раз видели на Бакунина 115",
+    "email": "kuzya@ya.ru",
+    "img": "kuzya.png"
+  },
+  {
+    "header": "Собака Чара",
+    "content": "Последний раз видели около шаурмячной",
+    "email": "chara@ya.ru",
+    "img": "chara.jpg"
+  }
+]

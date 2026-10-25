@@ -6,6 +6,7 @@ export default function Home() {
     <p>Куликовский Вадим Алексеевич</p>
     <p>Николаев Александр Владимирович</p>
     <p>Группа 23ВВИ1</p>
-    <Link href="/content">Яндекс Карта</Link>
+    <p><Link href="/content">Яндекс Карта</Link></p>
+    <p><Link href="/petto">Petto</Link></p>
   </main>;
 }
