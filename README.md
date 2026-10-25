@@ -2,6 +2,10 @@
 
 Вариант 7. Next.js, JavaScript, Pages Router.
 
+Сайт: [Petto на Vercel](https://lab3-nextjs-silk.vercel.app).
+Исходники: [SlyWater/lab3_NextJS](https://github.com/SlyWater/lab3_NextJS).
+Публикация из ветки `main` выполняется автоматически в проект Vercel `sly24/lab3-nextjs`.
+
 ## Запуск
 
 ```powershell
