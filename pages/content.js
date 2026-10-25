@@ -7,6 +7,6 @@ export default function Content() {
   return <main>
     <h1>Яндекс Карта</h1>
     <YandexMap />
-    <Link href="/">Главная</Link>
+    <p><Link href="/">Главная</Link></p>
   </main>;
 }
