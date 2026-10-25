@@ -1,0 +1,8 @@
+.git
+.vercel
+.env*
+AGENTS.md
+node_modules
+.next
+coverage
+*.log
